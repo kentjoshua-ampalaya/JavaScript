@@ -1,3 +1,3 @@
 # JavaScript
 javascript
-Creating this for my own. :happy:
+Creating this for my own. :coffee:
